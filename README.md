@@ -39,6 +39,8 @@ Clean dataset (remove duplicates, invalid entries).
 
 Standardize molecules.
 
+Lipinski's Rules Predication
+
 Perform Exploratory Data Analysis (EDA).
 
 Save cleaned dataset as CSV.
