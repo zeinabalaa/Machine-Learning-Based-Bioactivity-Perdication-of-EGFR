@@ -33,7 +33,7 @@ Generate initial bioactivity dataset.
 
 Data Preprocessing.
 
-Convert structures to SMILES notation.
+onvert structures to SMILES notation.
 
 Clean dataset (remove duplicates, invalid entries).
 
@@ -53,30 +53,6 @@ Generate molecular fingerprints.
 
 Export descriptor matrix as CSV file.
 
-## Part 4: 
 
-Dataset Preparation.
 
-Load descriptor file.
 
-Remove low-variance features.
-
-Perform feature selection (if needed).
-
-Split data into training and testing sets.
-
-## Part 5: 
-
-Model Building & Evaluation.
-
-Build regression model (e.g., Random Forest Regressor).
-
-Train model on training dataset.
-
-### Evaluate performance using:
-
-R² score.
-
-Mean Squared Error (MSE).
-
-Generate performance comparison plot.
